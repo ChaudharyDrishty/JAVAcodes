@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class Solution
+{
+	public static void main(String[] args) {
+		char ch;int i;
+	Scanner ob=new Scanner(System.in);
+ch=ob.next().charAt(0);
+i=(int)ch;
+System.out.println(i);
+	
+	}
+}
