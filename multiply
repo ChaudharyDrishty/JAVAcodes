@@ -1,0 +1,13 @@
+import java.util.Scanner;
+public class Solution
+{
+	public static void main(String[] args) {
+		long f1,f2;
+		Scanner ob = new Scanner(System.in);
+		
+		f1=ob.nextLong();
+		f2=ob.nextLong();
+		System.out.println(f1*f2);
+	
+	}
+}
